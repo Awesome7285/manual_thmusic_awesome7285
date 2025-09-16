@@ -1948,14 +1948,6 @@
         "region": "Shoot the Bullet"
     },
     {
-        "name": "StB: Wind God Girl",
-        "requires": "|Aya Shameimaru|",
-        "category": [
-            "09.5 - Shoot the Bullet"
-        ],
-        "region": "Shoot the Bullet"
-    },
-    {
         "name": "MoF: Sealed Gods",
         "requires": "",
         "category": [
@@ -5556,6 +5548,9 @@
         "category": [
             "20 - Fossilized Wonders"
         ],
+        "place_item": [
+            "Final Boss Completed"
+        ],
         "region": "Fossilized Wonders"
     },
     {
@@ -6683,9 +6678,6 @@
         "requires": "|Watatsuki no Yorihime| AND |Watatsuki no Toyohime|",
         "category": [
             "PW06 - Silent Sinner in Blue"
-        ],
-        "place_item": [
-            "Final Boss Completed"
         ],
         "region": "Silent Sinner in Blue"
     },

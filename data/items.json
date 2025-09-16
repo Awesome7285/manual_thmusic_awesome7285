@@ -477,6 +477,7 @@
   { "name": "Ten Desires Trap", "count": 2, "trap": true, "category": ["Traps"] },
   { "name": "Ping the burger for no Reason Trap", "count": 5, "trap": true, "category": ["Traps"] },
   { "name": "Ping Snolid for no Reason Trap", "count": 5, "trap": true, "category": ["Traps"] },
+  { "name": "Ping Awesome for no Reason Trap", "count": 5, "trap": true, "category": ["Traps"] },
   { "name": "Double Speed Trap", "count": 2, "trap": true, "category": ["Traps"] },
   { "name": "Half Speed Trap", "count": 2, "trap": true, "category": ["Traps"] },
   { "name": "Go Outside and Touch Grass Trap", "count": 2, "trap": true, "category": ["Traps"] },
