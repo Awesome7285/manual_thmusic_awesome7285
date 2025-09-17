@@ -2672,38 +2672,6 @@
         "region": "Touhou Hisoutensoku"
     },
     {
-        "name": "UNL: The Legendary Titan",
-        "requires": "",
-        "category": [
-            "12.3 - Hisoutensoku"
-        ],
-        "region": "Touhou Hisoutensoku"
-    },
-    {
-        "name": "UNL: Our Hisoutensoku",
-        "requires": "|Hisoutensoku|",
-        "category": [
-            "12.3 - Hisoutensoku"
-        ],
-        "region": "Touhou Hisoutensoku"
-    },
-    {
-        "name": "UNL: Scenery with Dolls",
-        "requires": "",
-        "category": [
-            "12.3 - Hisoutensoku"
-        ],
-        "region": "Touhou Hisoutensoku"
-    },
-    {
-        "name": "UNL: The Eternal Steam Engine",
-        "requires": "|UNL Ending|",
-        "category": [
-            "12.3 - Hisoutensoku"
-        ],
-        "region": "Touhou Hisoutensoku"
-    },
-    {
         "name": "UNL: Faith Is for the Transient People",
         "requires": "|Sanae Kochiya|",
         "category": [
@@ -2795,8 +2763,32 @@
         "region": "Touhou Hisoutensoku"
     },
     {
-        "name": "UNL: Eastern Mystical Tale of Romance (Century's End Version)",
-        "requires": "|Reimu Hakurei|",
+        "name": "UNL: The Legendary Titan",
+        "requires": "",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku"
+    },
+    {
+        "name": "UNL: Our Hisoutensoku",
+        "requires": "|Hisoutensoku|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku"
+    },
+    {
+        "name": "UNL: Scenery with Dolls",
+        "requires": "",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku"
+    },
+    {
+        "name": "UNL: The Eternal Steam Engine",
+        "requires": "|UNL Ending|",
         "category": [
             "12.3 - Hisoutensoku"
         ],
@@ -2829,6 +2821,14 @@
     {
         "name": "UNL: Our Hisoutensoku (Karaoke ver.)",
         "requires": "|Hisoutensoku|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku"
+    },
+    {
+        "name": "UNL: Eastern Mystical Tale of Romance (Century's End Version)",
+        "requires": "|Reimu Hakurei|",
         "category": [
             "12.3 - Hisoutensoku"
         ],
@@ -3225,31 +3225,7 @@
         "region": "Hopeless Masquerade"
     },
     {
-        "name": "HM: Shinkirou Orchestra",
-        "requires": "",
-        "category": [
-            "13.5 - Hopeless Masquerade"
-        ],
-        "region": "Hopeless Masquerade"
-    },
-    {
         "name": "HM: A Popular Location",
-        "requires": "",
-        "category": [
-            "13.5 - Hopeless Masquerade"
-        ],
-        "region": "Hopeless Masquerade"
-    },
-    {
-        "name": "HM: An Unpopular Location",
-        "requires": "",
-        "category": [
-            "13.5 - Hopeless Masquerade"
-        ],
-        "region": "Hopeless Masquerade"
-    },
-    {
-        "name": "HM: Today's Front-Page Headline",
         "requires": "",
         "category": [
             "13.5 - Hopeless Masquerade"
@@ -3321,8 +3297,24 @@
         "region": "Hopeless Masquerade"
     },
     {
+        "name": "HM: An Unpopular Location",
+        "requires": "",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade"
+    },
+    {
         "name": "HM: Futatsuiwa from Sado",
         "requires": "|Mamizou Futatsuiwa|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade"
+    },
+    {
+        "name": "HM: Today's Front-Page Headline",
+        "requires": "",
         "category": [
             "13.5 - Hopeless Masquerade"
         ],
@@ -3372,7 +3364,7 @@
         "region": "Hopeless Masquerade"
     },
     {
-        "name": "HM: Performer Selection",
+        "name": "HM: Shinkirou Orchestra",
         "requires": "",
         "category": [
             "13.5 - Hopeless Masquerade"
@@ -3381,6 +3373,14 @@
     },
     {
         "name": "HM: Shinkirou Festival Orchestra",
+        "requires": "",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade"
+    },
+    {
+        "name": "HM: Performer Selection",
         "requires": "",
         "category": [
             "13.5 - Hopeless Masquerade"
@@ -3791,7 +3791,7 @@
         "region": "Urban Legend in Limbo"
     },
     {
-        "name": "ULiL: Battlefield of the Flower Threshold ",
+        "name": "ULiL: Battlefield of the Flower Threshold",
         "requires": "|Kasen Ibaraki| AND |Occult Ball:6|",
         "category": [
             "14.5 - Urban Legend in Limbo"
@@ -4846,88 +4846,8 @@
         "region": "Gouyoku Ibun"
     },
     {
-        "name": "SFW: Eastern Strange Tale of Avarice",
-        "requires": "|SFW Ending|",
-        "category": [
-            "17.5 - Gouyoku Ibun"
-        ],
-        "region": "Gouyoku Ibun"
-    },
-    {
-        "name": "SFW: Laws of Heaven, Desires of Man",
-        "requires": "|SFW Ending|",
-        "category": [
-            "17.5 - Gouyoku Ibun"
-        ],
-        "region": "Gouyoku Ibun"
-    },
-    {
         "name": "SFW: Magician's Melancholy",
         "requires": "",
-        "category": [
-            "17.5 - Gouyoku Ibun"
-        ],
-        "region": "Gouyoku Ibun"
-    },
-    {
-        "name": "SFW: The Dark Blowhole",
-        "requires": "",
-        "category": [
-            "17.5 - Gouyoku Ibun"
-        ],
-        "region": "Gouyoku Ibun"
-    },
-    {
-        "name": "SFW: Walking the Streets of a Former Hell",
-        "requires": "",
-        "category": [
-            "17.5 - Gouyoku Ibun"
-        ],
-        "region": "Gouyoku Ibun"
-    },
-    {
-        "name": "SFW: Hellfire Mantle",
-        "requires": "",
-        "category": [
-            "17.5 - Gouyoku Ibun"
-        ],
-        "region": "Gouyoku Ibun"
-    },
-    {
-        "name": "SFW: Cemetery of Onbashira",
-        "requires": "",
-        "category": [
-            "17.5 - Gouyoku Ibun"
-        ],
-        "region": "Gouyoku Ibun"
-    },
-    {
-        "name": "SFW: Depths of the Earth, Ocean of Avarice",
-        "requires": "",
-        "category": [
-            "17.5 - Gouyoku Ibun"
-        ],
-        "region": "Gouyoku Ibun"
-    },
-    {
-        "name": "SFW: Everlasting Red Spider Lily",
-        "requires": "",
-        "category": [
-            "17.5 - Gouyoku Ibun"
-        ],
-        "region": "Gouyoku Ibun"
-    },
-    {
-        "name": "SFW: The Centennial Festival for Magical Girls",
-        "requires": "",
-        "category": [
-            "17.5 - Gouyoku Ibun"
-        ],
-        "region": "Gouyoku Ibun"
-    },
-    {
-        "name": "SFW: Maiden's Capriccio",
-        "requires": "|Reimu Hakurei|",
         "category": [
             "17.5 - Gouyoku Ibun"
         ],
@@ -4942,8 +4862,16 @@
         "region": "Gouyoku Ibun"
     },
     {
-        "name": "SFW: The Sealed-Away Youkai",
-        "requires": "|Yamame Kurodani|",
+        "name": "SFW: Maiden's Capriccio",
+        "requires": "|Reimu Hakurei|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun"
+    },
+    {
+        "name": "SFW: The Dark Blowhole",
+        "requires": "",
         "category": [
             "17.5 - Gouyoku Ibun"
         ],
@@ -4958,24 +4886,16 @@
         "region": "Gouyoku Ibun"
     },
     {
-        "name": "SFW: Captain Murasa",
-        "requires": "|Minamitsu Murasa|",
+        "name": "SFW: The Sealed-Away Youkai",
+        "requires": "|Yamame Kurodani|",
         "category": [
             "17.5 - Gouyoku Ibun"
         ],
         "region": "Gouyoku Ibun"
     },
     {
-        "name": "SFW: The Venerable Ancient Battlefield",
-        "requires": "|Kanako Yasaka|",
-        "category": [
-            "17.5 - Gouyoku Ibun"
-        ],
-        "region": "Gouyoku Ibun"
-    },
-    {
-        "name": "SFW: Tonight Stars an Easygoing Egoist ~ Egoistic Flowers",
-        "requires": "|Joon Yorigami| AND |Shion Yorigami|",
+        "name": "SFW: Walking the Streets of a Former Hell",
+        "requires": "",
         "category": [
             "17.5 - Gouyoku Ibun"
         ],
@@ -4990,6 +4910,38 @@
         "region": "Gouyoku Ibun"
     },
     {
+        "name": "SFW: Cemetery of Onbashira",
+        "requires": "",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun"
+    },
+    {
+        "name": "SFW: The Venerable Ancient Battlefield",
+        "requires": "|Kanako Yasaka|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun"
+    },
+    {
+        "name": "SFW: Captain Murasa",
+        "requires": "|Minamitsu Murasa|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun"
+    },
+    {
+        "name": "SFW: Hellfire Mantle",
+        "requires": "",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun"
+    },
+    {
         "name": "SFW: Solar Sect of Mystic Wisdom",
         "requires": "|Utsuho Reiuji|",
         "category": [
@@ -4998,8 +4950,32 @@
         "region": "Gouyoku Ibun"
     },
     {
+        "name": "SFW: Everlasting Red Spider Lily",
+        "requires": "",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun"
+    },
+    {
         "name": "SFW: Seraphic Chicken",
         "requires": "|Kutaka Niwatari|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun"
+    },
+    {
+        "name": "SFW: Tonight Stars an Easygoing Egoist ~ Egoistic Flowers",
+        "requires": "|Joon Yorigami| AND |Shion Yorigami|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun"
+    },
+    {
+        "name": "SFW: The Centennial Festival for Magical Girls",
+        "requires": "",
         "category": [
             "17.5 - Gouyoku Ibun"
         ],
@@ -5030,6 +5006,14 @@
         "region": "Gouyoku Ibun"
     },
     {
+        "name": "SFW: Depths of the Earth, Ocean of Avarice",
+        "requires": "",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun"
+    },
+    {
         "name": "SFW: Memento of the Avaricious Beast",
         "requires": "|Yuuma Toutetsu|",
         "category": [
@@ -5045,6 +5029,22 @@
         ],
         "place_item": [
             "Final Boss Completed"
+        ],
+        "region": "Gouyoku Ibun"
+    },
+    {
+        "name": "SFW: Laws of Heaven, Desires of Man",
+        "requires": "|SFW Ending|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun"
+    },
+    {
+        "name": "SFW: Eastern Strange Tale of Avarice",
+        "requires": "|SFW Ending|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
         ],
         "region": "Gouyoku Ibun"
     },
