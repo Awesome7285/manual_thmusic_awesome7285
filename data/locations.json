@@ -5479,7 +5479,7 @@
         "region": "Fossilized Wonders"
     },
     {
-        "name": "FW: There is a Monster in the Woods",
+        "name": "FW: There's a Monster in the Woods",
         "requires": "|Chimi Houjuu|",
         "category": [
             "20 - Fossilized Wonders"
@@ -5511,7 +5511,7 @@
         "region": "Fossilized Wonders"
     },
     {
-        "name": "FW: Reminiscence of Deer-Hunting",
+        "name": "FW: Reminiscence of Deer Hunting",
         "requires": "|Yuiman Asama|",
         "category": [
             "20 - Fossilized Wonders"
@@ -6594,7 +6594,7 @@
         "region": "Eastern and Little Nature Deity"
     },
     {
-        "name": "SaBND CD1: Sunny Milk's Scarlet Mist Incident",
+        "name": "SaBND: Sunny Milk's Scarlet Mist Incident",
         "requires": "|Sunny Milk|",
         "category": [
             "PW05 - Strange and Bright Nature Deity"
@@ -6602,7 +6602,7 @@
         "region": "Strange and Bright Nature Deity CD1"
     },
     {
-        "name": "SaBND CD1: A Land Resplendent With Nature's Beauty",
+        "name": "SaBND: A Land Resplendent With Nature's Beauty",
         "requires": "",
         "category": [
             "PW05 - Strange and Bright Nature Deity"
@@ -6610,7 +6610,7 @@
         "region": "Strange and Bright Nature Deity CD1"
     },
     {
-        "name": "SaBND CD1: Star Voyage 2008",
+        "name": "SaBND: Star Voyage 2008",
         "requires": "",
         "category": [
             "PW05 - Strange and Bright Nature Deity"
@@ -6618,7 +6618,7 @@
         "region": "Strange and Bright Nature Deity CD1"
     },
     {
-        "name": "SaBND CD2: The Refrain of the Lovely Great War",
+        "name": "SaBND: The Refrain of the Lovely Great War",
         "requires": "",
         "category": [
             "PW05 - Strange and Bright Nature Deity"
@@ -6626,7 +6626,7 @@
         "region": "Strange and Bright Nature Deity CD2"
     },
     {
-        "name": "SaBND CD2: Sunny Rutile Flection",
+        "name": "SaBND: Sunny Rutile Flection",
         "requires": "|Sunny Milk|",
         "category": [
             "PW05 - Strange and Bright Nature Deity"
@@ -6634,7 +6634,7 @@
         "region": "Strange and Bright Nature Deity CD2"
     },
     {
-        "name": "SaBND CD2: Can't Sleep Because It's Nighttime",
+        "name": "SaBND: Can't Sleep Because It's Nighttime",
         "requires": "|Luna Child|",
         "category": [
             "PW05 - Strange and Bright Nature Deity"
@@ -6642,7 +6642,7 @@
         "region": "Strange and Bright Nature Deity CD2"
     },
     {
-        "name": "SaBND CD2: Like the Brilliance of Fairies",
+        "name": "SaBND: Like the Brilliance of Fairies",
         "requires": "|Star Sapphire|",
         "category": [
             "PW05 - Strange and Bright Nature Deity"
@@ -6650,7 +6650,7 @@
         "region": "Strange and Bright Nature Deity CD2"
     },
     {
-        "name": "SaBND CD3: The Fairy's Adventurous Tale",
+        "name": "SaBND: The Fairy's Adventurous Tale",
         "requires": "",
         "category": [
             "PW05 - Strange and Bright Nature Deity"
@@ -6658,7 +6658,7 @@
         "region": "Strange and Bright Nature Deity CD3"
     },
     {
-        "name": "SaBND CD3: Two Worlds",
+        "name": "SaBND: Two Worlds",
         "requires": "",
         "category": [
             "PW05 - Strange and Bright Nature Deity"
@@ -6690,7 +6690,7 @@
         "region": "Silent Sinner in Blue"
     },
     {
-        "name": "OSP CD1: The Hide-and-Seek Lifestyle at the Shrine",
+        "name": "OSP: The Hide-and-Seek Lifestyle at the Shrine",
         "requires": "",
         "category": [
             "PW07 - Oriental Sacred Place"
@@ -6698,7 +6698,7 @@
         "region": "Oriental Sacred Place CD1"
     },
     {
-        "name": "OSP CD1: Youkai Modern Colony",
+        "name": "OSP: Youkai Modern Colony",
         "requires": "",
         "category": [
             "PW07 - Oriental Sacred Place"
@@ -6706,7 +6706,7 @@
         "region": "Oriental Sacred Place CD1"
     },
     {
-        "name": "OSP CD2: Year-Round Absorbed Curiosity",
+        "name": "OSP: Year-Round Absorbed Curiosity",
         "requires": "",
         "category": [
             "PW07 - Oriental Sacred Place"
@@ -6714,7 +6714,7 @@
         "region": "Oriental Sacred Place CD2"
     },
     {
-        "name": "OSP CD2: A Midnight Fairy Dance",
+        "name": "OSP: A Midnight Fairy Dance",
         "requires": "",
         "category": [
             "PW07 - Oriental Sacred Place"
@@ -6722,7 +6722,7 @@
         "region": "Oriental Sacred Place CD2"
     },
     {
-        "name": "OSP CD2: Great Fairy Wars ~ Fairy Wars",
+        "name": "OSP: Great Fairy Wars ~ Fairy Wars",
         "requires": "|Sunny Milk| AND |Star Sapphire| AND |Luna Child|",
         "category": [
             "PW07 - Oriental Sacred Place"
@@ -6730,7 +6730,7 @@
         "region": "Oriental Sacred Place CD2"
     },
     {
-        "name": "OSP CD3: Magus Night",
+        "name": "OSP: Magus Night",
         "requires": "|Marisa Kirisame|",
         "category": [
             "PW07 - Oriental Sacred Place"
@@ -6738,7 +6738,7 @@
         "region": "Oriental Sacred Place CD3"
     },
     {
-        "name": "OSP CD3: Staking Your Life on a Prank",
+        "name": "OSP: Staking Your Life on a Prank",
         "requires": "|Sunny Milk| AND |Star Sapphire| AND |Luna Child|",
         "category": [
             "PW07 - Oriental Sacred Place"
@@ -6746,7 +6746,7 @@
         "region": "Oriental Sacred Place CD3"
     },
     {
-        "name": "OSP CD3: Old Yuanxian",
+        "name": "OSP: Old Yuanxian",
         "requires": "|Seiga Kaku|",
         "category": [
             "PW07 - Oriental Sacred Place"
